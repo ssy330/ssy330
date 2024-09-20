@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm7531)](https://solved.ac/khm7531)
 
 <!--
 **ssy330/ssy330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
