@@ -1,5 +1,10 @@
 ## Hi there 👋
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm7531)](https://solved.ac/khm7531)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
 
 <!--
 **ssy330/ssy330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
